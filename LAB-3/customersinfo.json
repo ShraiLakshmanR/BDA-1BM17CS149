@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5f7ee529704fb0e01b0261ed"},"cid":"1","acctype":"saving","curbal":"2000","accbal":[100.0,200.0,500.0,1200.0,1600.0]}
+{"_id":{"$oid":"5f7ee529704fb0e01b0261ee"},"cid":"2","acctype":"saving","curbal":"1000","accbal":[100.0,200.0,500.0,1200.0,1600.0]}
+{"_id":{"$oid":"5f7ee529704fb0e01b0261ef"},"cid":"3","acctype":"saving","curbal":"1200","accbal":[100.0,200.0,500.0,1200.0,1600.0]}
+{"_id":{"$oid":"5f7ee545704fb0e01b0261f0"},"cid":"4","acctype":"saving","curbal":"2500","accbal":[100.0,200.0,500.0,1200.0,1600.0]}
+{"_id":{"$oid":"5f7ee545704fb0e01b0261f1"},"cid":"5","acctype":"saving","curbal":"1300","accbal":[100.0,200.0,500.0,1200.0,1600.0]}

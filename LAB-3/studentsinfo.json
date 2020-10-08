@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5f7ed24fcac96eab1778275a"},"rollno":"1","age":"21","cnum":"8618267464","email":"shrai.cs18@bmsce.ac.in","name":"XYZ"}
+{"_id":{"$oid":"5f7ed24fcac96eab1778275b"},"rollno":"2","age":"21","cnum":"9964209011","email":"baba@gmail.com","name":"YZX"}
+{"_id":{"$oid":"5f7ed24fcac96eab1778275c"},"rollno":"10","age":"20","cnum":"8888888888","email":"ra@gmail.com","name":"BAC"}
+{"_id":{"$oid":"5f7ed24fcac96eab1778275d"},"rollno":"11","age":"22","cnum":"87777777","email":"ram@gmail.com","name":"FEM"}
