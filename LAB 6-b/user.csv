@@ -1,0 +1,24 @@
+
+ stud_id                              | stud_name | book_name  | book_id | doi      | counter_value
+--------------------------------------+-----------+------------+---------+----------+---------------
+ 5d501517-09ad-43a1-a5b0-d3b5f1195916 |     Shrai | Hardy boys |       1 | 1/2/2020 |             1
+ cdd43759-bc64-4119-91bf-3e9ec59ca966 |    Ashish |    malgudi |       1 | 1/2/2020 |             1
+ d6ff2a20-980c-4379-83c1-ac52622630dd |  Shreyank |        BDA |       1 | 1/2/2020 |             2
+
+(3 rows)
+
+ stud_id                              | stud_name | book_name  | book_id | doi      | counter_value
+--------------------------------------+-----------+------------+---------+----------+---------------
+ 5d501517-09ad-43a1-a5b0-d3b5f1195916 |     Shrai | Hardy boys |       1 | 1/2/2020 |             1
+ cdd43759-bc64-4119-91bf-3e9ec59ca966 |    Ashish |    malgudi |       1 | 1/2/2020 |             1
+ d6ff2a20-980c-4379-83c1-ac52622630dd |  Shreyank |        BDA |       1 | 1/2/2020 |             2
+
+(3 rows)
+
+ stud_id                              | stud_name | book_name  | book_id | doi      | counter_value
+--------------------------------------+-----------+------------+---------+----------+---------------
+ 5d501517-09ad-43a1-a5b0-d3b5f1195916 |     Shrai | Hardy boys |       1 | 1/2/2020 |             1
+ cdd43759-bc64-4119-91bf-3e9ec59ca966 |    Ashish |    malgudi |       1 | 1/2/2020 |             1
+ d6ff2a20-980c-4379-83c1-ac52622630dd |  Shreyank |        BDA |       1 | 1/2/2020 |             2
+
+(3 rows)
